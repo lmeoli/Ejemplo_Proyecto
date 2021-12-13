@@ -3,7 +3,7 @@
 #include "array.h"
 #include "ins.h"
 #include "outs.h"
-
+//agrego para smartgit
 //Constructores y destructor
 transaction::transaction() {
     n_tx_in = 0;
