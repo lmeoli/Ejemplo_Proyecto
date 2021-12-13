@@ -3,7 +3,7 @@
 #include<iostream>
 
 using namespace std;
-
+//agrego este comentario para smartgit
 template <typename T>
 class Array{
 
